@@ -12,4 +12,6 @@ There are some useful code or software which are important in scientific calcula
 1) A very useful Guide on How to use Python[廖雪峰Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)
 
 ## Homework Catalogue
-### 1. [2016.3.12 Your name and Alphabet in a new font type](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/1.md)
+### 1. Install Softwares
+### 2. Study on your own
+### 3.[2016.3.12 Your name and Alphabet in a new font type](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/1.md)
