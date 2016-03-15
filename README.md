@@ -15,4 +15,4 @@ There are some useful code or software which are important in scientific calcula
 ## Homework Catalogue
 ### 1. Install Softwares
 ### 2. Study on your own
-### 3.[2016.3.12 Your name and Alphabet in a new font type](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/1.md)
+### 3.[2016.3.12 A new font](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.3.12%20A%20new%20font.md)
