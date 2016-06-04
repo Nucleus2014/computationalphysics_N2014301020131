@@ -17,3 +17,4 @@ There are some useful code or software which are important in scientific calcula
 ### 2. Study on your own
 ### 3.[2016.3.12 A new font](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.3.12%20A%20new%20font.md)
 ### 4.[2016.4.7 A free falling object](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.3.30%20Chart1.md)
+### 5.[2016.6.4 Population growth](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.4%20Population%20growth.md)
