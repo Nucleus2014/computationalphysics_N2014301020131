@@ -11,7 +11,7 @@ There are some useful code or software which are important in scientific calcula
 
 ### 2.About Python
 1) A very useful Guide on How to use Python[廖雪峰Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/)
-
+2) Tool to edit Latex in Markdown [CodeCogs](http://latex.codecogs.com/)
 ## Homework Catalogue
 ### 1. Install Softwares
 ### 2. Study on your own
@@ -19,3 +19,4 @@ There are some useful code or software which are important in scientific calcula
 ### 4.[2016.4.7 A free falling object](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.3.30%20Chart1.md)
 ### 5.[2016.6.4 Population growth](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.4%20Population%20growth.md)
 ### 6.[2016.6.4 Cannon shell trajectory](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.4%20Cannon%20shell%20trajectory.md)
+### 7.[2016.6.9 The effect of backspin.md](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.9%20The%20effect%20of%20backspin.md)
