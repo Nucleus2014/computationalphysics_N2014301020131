@@ -19,4 +19,5 @@ There are some useful code or software which are important in scientific calcula
 ### 4.[2016.4.7 A free falling object](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.3.30%20Chart1.md)
 ### 5.[2016.6.4 Population growth](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.4%20Population%20growth.md)
 ### 6.[2016.6.4 Cannon shell trajectory](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.4%20Cannon%20shell%20trajectory.md)
-### 7.[2016.6.9 The effect of backspin.md](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.9%20The%20effect%20of%20backspin.md)
+### 7.[2016.6.9 The effect of backspin](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.9%20The%20effect%20of%20backspin.md)
+### 8.[2016.6.10 Pendulum](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/2016.6.10%20Pendulum.md)
