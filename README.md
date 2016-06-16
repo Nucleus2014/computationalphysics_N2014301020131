@@ -12,9 +12,10 @@
 ### 10.[2016.6.13 The Lorenz Model](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_10/2016.6.13%20The%20Lorenz%20Model.md)
 ### 11.[2016.6.13 The double star system](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_11/2016.6.13%20The%20double%20star%20system.md)
 ### 12.[2016.6.16 Divergence--chaotic tumbling of Hyperion](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_12/2016.6.16%20Divergence.md)
+### 13.[The capacitor problem](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_13/2016.6.16%20The%20capacitor%20problem.md)
 
 ## Instruction
-[Request for the course](https://github.com/caihao/computational_physics_whu/blob/master/README.md)  
+[*Request for the course*](https://github.com/caihao/computational_physics_whu/blob/master/README.md)  
 
 ## Appreciation
 There are some useful code or software which are important in scientific calculation. I have read at times when I was doing homeworks.
