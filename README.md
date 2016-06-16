@@ -1,4 +1,18 @@
 # Computational Physics:cat:
+## Homework Catalogue
+### 1. Install Softwares
+### 2. Study on your own
+### 3.[2016.3.12 A new font](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_3/2016.3.12%20A%20new%20font.md)
+### 4.[2016.4.7 A free falling object](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_4/2016.3.30%20Chart1.md)
+### 5.[2016.6.4 Population growth](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_5/2016.6.4%20Population%20growth.md)
+### 6.[2016.6.4 Cannon shell trajectory](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_6/2016.6.4%20Cannon%20shell%20trajectory.md)
+### 7.[2016.6.9 The effect of backspin](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_7/2016.6.9%20The%20effect%20of%20backspin.md)
+### 8.[2016.6.10 Pendulum](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_8/2016.6.10%20Pendulum.md)
+### 9.[2016.6.11 The nonlinear pendulum](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_9/2016.6.11%20Nonlinear%20pendulum.md)
+### 10.[2016.6.13 The Lorenz Model](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_10/2016.6.13%20The%20Lorenz%20Model.md)
+### 11.[2016.6.13 The double star system](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_11/2016.6.13%20The%20double%20star%20system.md)
+### 12.[2016.6.16 Divergence--chaotic tumbling of Hyperion](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_12/2016.6.16%20Divergence.md)
+
 ## Instruction
 [Request for the course](https://github.com/caihao/computational_physics_whu/blob/master/README.md)  
 
@@ -30,16 +44,3 @@ Official website[VPython](http://www.vpython.org/)
 
 2)Simple one [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 
-## Homework Catalogue
-### 1. Install Softwares
-### 2. Study on your own
-### 3.[2016.3.12 A new font](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_3/2016.3.12%20A%20new%20font.md)
-### 4.[2016.4.7 A free falling object](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_4/2016.3.30%20Chart1.md)
-### 5.[2016.6.4 Population growth](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_5/2016.6.4%20Population%20growth.md)
-### 6.[2016.6.4 Cannon shell trajectory](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_6/2016.6.4%20Cannon%20shell%20trajectory.md)
-### 7.[2016.6.9 The effect of backspin](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_7/2016.6.9%20The%20effect%20of%20backspin.md)
-### 8.[2016.6.10 Pendulum](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_8/2016.6.10%20Pendulum.md)
-### 9.[2016.6.11 The nonlinear pendulum](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_9/2016.6.11%20Nonlinear%20pendulum.md)
-### 10.[2016.6.13 The Lorenz Model](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_10/2016.6.13%20The%20Lorenz%20Model.md)
-### 11.[2016.6.13 The double star system](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_11/2016.6.13%20The%20double%20star%20system.md)
-### 12.[2016.6.16 Divergence--chaotic tumbling of Hyperion](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_12/2016.6.16%20Divergence.md)
