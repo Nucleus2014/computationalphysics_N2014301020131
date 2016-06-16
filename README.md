@@ -3,7 +3,7 @@
 ### 1. Install Softwares
 ### 2. Study on your own
 ### 3.[2016.3.12 A new font](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_3/2016.3.12%20A%20new%20font.md)
-### 4.[2016.4.7 A free falling object](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_4/2016.3.30%20Chart1.md)
+### 4.[2016.4.7 A free falling object](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_4/2016.3.30%20A%20free%20falling%20object.md)
 ### 5.[2016.6.4 Population growth](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_5/2016.6.4%20Population%20growth.md)
 ### 6.[2016.6.4 Cannon shell trajectory](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_6/2016.6.4%20Cannon%20shell%20trajectory.md)
 ### 7.[2016.6.9 The effect of backspin](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_7/2016.6.9%20The%20effect%20of%20backspin.md)
