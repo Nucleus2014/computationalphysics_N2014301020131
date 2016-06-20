@@ -14,7 +14,7 @@
 ### 12.[2016.6.16 Divergence--chaotic tumbling of Hyperion](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_12/2016.6.16%20Divergence.md)
 ### 13.[The capacitor problem](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_13/2016.6.16%20The%20capacitor%20problem.md)
 ### 14.[The waves](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/homework_14/2016.6.17%20Waves.md)
-### 15.[Final](https://www.zybuluo.com/Nucleus2014/note/412295)
+### 15.[Final](https://github.com/Nucleus2014/computationalphysics_N2014301020131/blob/master/Final/final_project.pdf)
 
 ## Instruction
 [*Request for the course*](https://github.com/caihao/computational_physics_whu/blob/master/README.md)  
